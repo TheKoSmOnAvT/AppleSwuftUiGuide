@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		383731C424CE989C004F5361 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = B73948A0229F2E1F00C47603 /* LandmarkList.swift */; };
 		3896149724CAB12100BC310C /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394880229F28B900C47603 /* Data.swift */; };
 		3896149824CAB12100BC310C /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = B739487F229F28B900C47603 /* Landmark.swift */; };
 		3896149924CAB12100BC310C /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7D587B9229F8288006E8DCF /* Hike.swift */; };
@@ -543,6 +544,7 @@
 				389614B024CABA5200BC310C /* WatchMapView.swift in Sources */,
 				3896149B24CAB12100BC310C /* Profile.swift in Sources */,
 				38F0916024C9931200013378 /* HostingController.swift in Sources */,
+				383731C424CE989C004F5361 /* LandmarkList.swift in Sources */,
 				3896149724CAB12100BC310C /* Data.swift in Sources */,
 				3896149A24CAB12100BC310C /* UserData.swift in Sources */,
 				3896149D24CAB12F00BC310C /* CircleImage.swift in Sources */,
